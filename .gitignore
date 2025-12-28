@@ -25,3 +25,30 @@ datasets/
 
 # OS
 .DS_Store
+
+# =========================
+# LLM / Training artifacts
+# =========================
+qwen2.5-7b-function-calling/
+checkpoints/
+checkpoint-*/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Trainer / HF
+trainer_state.json
+rng_state.pth
+optimizer.pt
+scheduler.pt
+
+# Tokenizer (large)
+tokenizer.json
+vocab.json
+merges.txt
+
+# Cache / logs
+wandb/
+cache/
+outputs/
