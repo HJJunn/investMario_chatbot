@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Env
+.env
+
+# Model / Checkpoints
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+checkpoints/
+models/
+cache/
+wandb/
+
+# Data
+data/
+datasets/
+
+# OS
+.DS_Store
