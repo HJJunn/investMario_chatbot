@@ -78,7 +78,7 @@ Final Answer
 ```
 ---
 # 📁 프로젝트 전체 구조
-
+```bash
 investMario_chatbot/
 ├── backend/                                    # 백엔드 메인 서버
 │   ├── app/
@@ -124,7 +124,7 @@ investMario_chatbot/
 ├── .git/
 ├── .gitignore
 └── README.md
-
+```
 
 # 🧩 Function Calling 모델 파인튜닝
 
