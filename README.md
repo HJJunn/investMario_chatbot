@@ -199,7 +199,7 @@ investMario_chatbot/
 
 # 팀 프로젝트
 
-[https://github.com/HJJunn/investMario_chatbot](https://github.com/HJJunn/investMario)
+👉 [https://github.com/HJJunn/investMario_chatbot](https://github.com/HJJunn/investMario)
 
 ---
 
